@@ -25,7 +25,7 @@ function App() {
       <Header />
       <MainContent />
       <Footer />
-      <UserProfile name="Alice" age="25" bio="Loves hiking and Photography" />
+      <UserProfile name="Alice" age="25" bio="Loves hiking and photography" />
       <UserProfile
         name="Waka"
         age="27"
